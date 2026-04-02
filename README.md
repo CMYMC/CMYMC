@@ -6,7 +6,7 @@
 ---
 ## Education 
 [Intel] Edge AI SW Academy (8기) (2025.07 ~ 2026.01) [수료]
- - STM32 펌웨어 및 FreeRTOS 기반 IoT 제어부터 리눅스 BSP, 디바이스 드라이버 설계, ROS2 및 Hailo-8 NPU를 활용한 Edge AI 최적화까지 임베디드 시스템 전반을 이수함
+ - STM32 펌웨어 및 FreeRTOS 기반 IoT 제어부터 리눅스 BSP, 디바이스 드라이버 설계, ROS2 등 임베디드 시스템 전반을 이수함
 ---
 
 ## 🔥 주요 프로젝트
